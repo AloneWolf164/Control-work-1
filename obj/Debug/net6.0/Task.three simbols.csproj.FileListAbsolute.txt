@@ -1,0 +1,15 @@
+C:\Users\AloneWolf\Desktop\Work\IT\Practic\Контр. работа по блоку Выбор специ-ции\Task.three simbols\bin\Debug\net6.0\Task.three simbols.exe
+C:\Users\AloneWolf\Desktop\Work\IT\Practic\Контр. работа по блоку Выбор специ-ции\Task.three simbols\bin\Debug\net6.0\Task.three simbols.deps.json
+C:\Users\AloneWolf\Desktop\Work\IT\Practic\Контр. работа по блоку Выбор специ-ции\Task.three simbols\bin\Debug\net6.0\Task.three simbols.runtimeconfig.json
+C:\Users\AloneWolf\Desktop\Work\IT\Practic\Контр. работа по блоку Выбор специ-ции\Task.three simbols\bin\Debug\net6.0\Task.three simbols.dll
+C:\Users\AloneWolf\Desktop\Work\IT\Practic\Контр. работа по блоку Выбор специ-ции\Task.three simbols\bin\Debug\net6.0\Task.three simbols.pdb
+C:\Users\AloneWolf\Desktop\Work\IT\Practic\Контр. работа по блоку Выбор специ-ции\Task.three simbols\obj\Debug\net6.0\Task.three simbols.csproj.AssemblyReference.cache
+C:\Users\AloneWolf\Desktop\Work\IT\Practic\Контр. работа по блоку Выбор специ-ции\Task.three simbols\obj\Debug\net6.0\Task.three simbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AloneWolf\Desktop\Work\IT\Practic\Контр. работа по блоку Выбор специ-ции\Task.three simbols\obj\Debug\net6.0\Task.three simbols.AssemblyInfoInputs.cache
+C:\Users\AloneWolf\Desktop\Work\IT\Practic\Контр. работа по блоку Выбор специ-ции\Task.three simbols\obj\Debug\net6.0\Task.three simbols.AssemblyInfo.cs
+C:\Users\AloneWolf\Desktop\Work\IT\Practic\Контр. работа по блоку Выбор специ-ции\Task.three simbols\obj\Debug\net6.0\Task.three simbols.csproj.CoreCompileInputs.cache
+C:\Users\AloneWolf\Desktop\Work\IT\Practic\Контр. работа по блоку Выбор специ-ции\Task.three simbols\obj\Debug\net6.0\Task.three simbols.dll
+C:\Users\AloneWolf\Desktop\Work\IT\Practic\Контр. работа по блоку Выбор специ-ции\Task.three simbols\obj\Debug\net6.0\refint\Task.three simbols.dll
+C:\Users\AloneWolf\Desktop\Work\IT\Practic\Контр. работа по блоку Выбор специ-ции\Task.three simbols\obj\Debug\net6.0\Task.three simbols.pdb
+C:\Users\AloneWolf\Desktop\Work\IT\Practic\Контр. работа по блоку Выбор специ-ции\Task.three simbols\obj\Debug\net6.0\Task.three simbols.genruntimeconfig.cache
+C:\Users\AloneWolf\Desktop\Work\IT\Practic\Контр. работа по блоку Выбор специ-ции\Task.three simbols\obj\Debug\net6.0\ref\Task.three simbols.dll
