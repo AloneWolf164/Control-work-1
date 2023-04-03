@@ -3,22 +3,25 @@ using static System.Console;
 
 Write("Введите элементы массива через пробел: ");
 string[] array = ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
-NewArray(array);
 Write("Массив содержащий не более 3-х символов состоит из следующих элементов: ");
-PrintArray(array);
 
-// Write("Введите второй элемент исходного массива: ");
-// string[] array2 = ReadLine().Split(" ",StringSplitOptions.RemoveEmptyEntries);
-// Write("Введите третий элемент исходного массива: ");
-// string[] array3 = ReadLine().Split(" ",StringSplitOptions.RemoveEmptyEntries);
+Write("[");
+for (int i = 0; i < array.Length; i++)
+{
+    if (array[i].Length <= 3)
+    {
+        Write($"{array[i]} ");
+    }
+}
+Write("]");
 
-// string[] inArray = {"Denmark","Hel","2"};
+// Write("[");
+// if (array[0].Length <= 3) {Write(array[0]);}
+// if (array[1].Length <= 3) {Write(array[1]); Write(",");}
+// if (array[2].Length <= 3) {Write(array[2]); Write(",");}
+// if (array[3].Length <= 3) {Write(array[3]); Write(",");}
+// if (array[4].Length <= 3) {Write(array[4]); Write("]");}
 
-
-
-// if (inArray[0].Length <= 3) {WriteLine(inArray[0]);}
-// if (inArray[1].Length <= 3) {WriteLine(inArray[1]);}
-// if (inArray[2].Length <= 3) {WriteLine(inArray[2]);}
 string[] NewArray(string[] array)
 {
     string[] result = new string[array.Length];
@@ -37,24 +40,6 @@ string[] NewArray(string[] array)
     }
     return result;
 }
-
-
-
-// string[] NewArray(string[] array)
-// {
-//     string[] result = new string[array.Length];
-//     for (int i = 0; i < array.Length; i++)
-//     {
-//         if (array[i].Length <= 3)
-//         {
-//             for (int j = 0; j <= i; j++)
-//             {
-//                 result[j] = array[i];
-//             }
-//         }
-//     }
-//     return result;
-// }
 
 void PrintArray(string[] array)
 {
